@@ -14,4 +14,4 @@ This repository consists of a Jupyter/Python notebook for the simulation of a CO
 ### Related Modeling Projects
 
 * [COVID-19 Scenarios](https://neherlab.org/covid19/) from the Richard Neher research group at the University of Basel.
-* [https://art-bd.shinyapps.io/nCov_control/](https://art-bd.shinyapps.io/nCov_control/) Developed by Ashleigh Tuite and David Fisman, Dalla Lana School of Public Health, University of Toronto
+* [https://art-bd.shinyapps.io/nCov_control/](https://art-bd.shinyapps.io/nCov_control/) Tuite AR, Fisman DN. Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic. Ann Intern Med. 2020; [Epub ahead of print 5 February 2020]. doi: https://doi.org/10.7326/M20-0358
