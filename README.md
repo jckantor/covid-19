@@ -10,6 +10,7 @@ This repository consists of a Jupyter/Python notebook for the simulation of a CO
 
 * [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 * [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+* [ncov2019.live](https://ncov2019.live/data)
 
 ### Related Modeling Projects
 
