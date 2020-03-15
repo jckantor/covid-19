@@ -2,9 +2,11 @@
 
 This repository consists of a Jupyter/Python notebook for the interactive simulation of a COVID-19 outbreak in a campus-like environment using a standard SEIR epidemiological model. 
 
+The following link will open the notebook for viewing. After it has opened, click ''Open in playground" right below the header to run the interactive simulation.
+
 * [Open in Google Colab](https://colab.research.google.com/drive/1ddb_0swsq9MRKyHrzflCzeF8Tqqmp24H).
 
-The notebook will initially open for viewing. To run the simulation interactively, click ''Open in playground" right below the header. Playground mode opens a copy of the notebook in a temporary session that doesn't save the notebook. If you wish to save any changes, select an option from the Google Colab ''File'' menu.
+Playground mode opens a copy of the notebook in a temporary session that doesn't save the notebook. If you wish to save any changes, select an option from the Google Colab ''File'' menu.
 
 ## Other Resources
 
