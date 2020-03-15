@@ -4,9 +4,7 @@ This repository consists of a Jupyter/Python notebook for the interactive simula
 
 * [Open in Google Colab](https://colab.research.google.com/drive/1ddb_0swsq9MRKyHrzflCzeF8Tqqmp24H).
 
-Note: The notebook will initially open for viewing. Click ''OPEN IN PLAYGROUND" right below the header in order to run the simulation interactively. Playground mode opens a copy of the read-only notebook in a temporary session that doesn't save the notebook. If you want to save any changes, chose a an option from the Google Colab ''File'' menu.
-
-
+Note: The notebook will initially open for viewing. Click ''OPEN IN PLAYGROUND" right below the header in order to run the simulation interactively. Playground mode opens a copy of the read-only notebook in a temporary session that doesn't save the notebook. If you want to save any changes, select an option from the Google Colab ''File'' menu.
 
 ## Other Resources
 
