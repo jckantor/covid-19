@@ -14,3 +14,4 @@ This repository consists of a Jupyter/Python notebook for the simulation of a CO
 ### Related Modeling Projects
 
 * [COVID-19 Scenarios](https://neherlab.org/covid19/) from the Richard Neher research group at the University of Basel.
+* [https://art-bd.shinyapps.io/nCov_control/](https://art-bd.shinyapps.io/nCov_control/) Developed by Ashleigh Tuite and David Fisman, Dalla Lana School of Public Health, University of Toronto
