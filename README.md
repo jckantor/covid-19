@@ -20,3 +20,4 @@ Playground mode opens a copy of the notebook in a temporary session that doesn't
 
 * [COVID-19 Scenarios](https://neherlab.org/covid19/) from the Richard Neher research group at the University of Basel.
 * [Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus 2019-nCoV Epidemic.](https://art-bd.shinyapps.io/nCov_control/) Tuite AR, Fisman DN. Ann Intern Med. 2020; [Epub ahead of print 5 February 2020]. doi: https://doi.org/10.7326/M20-0358
+* Stevens, Harry. ["Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”."](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) *Washington Post* 14 March 2020. Web.
