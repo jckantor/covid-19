@@ -1,4 +1,4 @@
-# COVID-19 SEIR Model
+# Modeling and Control of a Campus COVID-19 Outbreak
 
 This repository consists of a Jupyter/Python notebook for the interactive simulation of a COVID-19 outbreak in a campus-like environment using a standard SEIR epidemiological model. 
 
