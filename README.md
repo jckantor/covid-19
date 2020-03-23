@@ -12,8 +12,13 @@ Playground mode opens a copy of the notebook in a temporary session that doesn't
 
 ### Dashboards
 
+The most commonly cited dashboards cited by the media are:
+
 * [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 * [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+
+There are several other dashboards done by smaller groups and individuals that display information in useful ways.
+
 * [ncov2019.live](https://ncov2019.live/data)
 * [91-divoc.com](http://91-divoc.com/pages/covid-visualization/)
 * [Worldometers](https://www.worldometers.info/coronavirus/)
