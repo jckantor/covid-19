@@ -15,7 +15,7 @@ Playground mode opens a copy of the notebook in a temporary session that doesn't
 * [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 * [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 * [ncov2019.live](https://ncov2019.live/data)
-* [Financial Times](https://www.ft.com/coronavirus-latest)
+* [91-divoc.com](http://91-divoc.com/pages/covid-visualization/)
 
 ### Related Modeling Projects
 
