@@ -25,6 +25,7 @@ There are several other dashboards done by smaller groups and individuals that d
 
 ### Related Modeling Projects
 
+* [New York Times Interactive Model](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html)
 * [COVID-19 Optimal Control Response](https://apmonitor.com/do/index.php/Main/COVID-19Response) SEIR optimization model.
 * [COVID Act Now](https://covidactnow.org/) A web site to support policy decisions by providing state-by-state projections under different control scenarios. Click through to locate the underlying model and modeling assumptions.
 * [COVID-19 Scenarios](https://neherlab.org/covid19/) from the Richard Neher research group at the University of Basel.
