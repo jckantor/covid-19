@@ -1,12 +1,10 @@
 # Modeling and Control of a Campus COVID-19 Outbreak
 
-This repository consists of a Jupyter/Python notebook for the interactive simulation of a COVID-19 outbreak in a campus-like environment using a standard SEIR epidemiological model. 
-
-The following link opens the notebook for viewing. After it has opened, click ''Open in playground" right below the header to run the interactive simulation.
+This repository consists of a Jupyter/Python notebook for the interactive simulation of a [COVID-19 outbreak in a campus-like environment](https://ndsmcobserver.com/2020/03/nd-faculty-discuss-public-health-importance-of-remote-learning-in-flattening-the-curve/) using a standard SEIR epidemiological model. The following link opens the notebook for viewing.
 
 * [Open in Google Colab](https://colab.research.google.com/drive/1ddb_0swsq9MRKyHrzflCzeF8Tqqmp24H)
 
-Playground mode opens a copy of the notebook in a temporary session that doesn't save the notebook. If you wish to save any changes, select an option from the Google Colab ''File'' menu.
+After it has opened, click ''Open in playground" right below the header to run the interactive simulation. Playground mode opens a copy of the notebook in a temporary session that doesn't save the notebook. If you wish to save any changes, select an option from the Google Colab ''File'' menu.
 
 ## Other Resources
 
@@ -23,8 +21,11 @@ There are several other dashboards done by smaller groups and individuals that d
 * [91-divoc.com](http://91-divoc.com/pages/covid-visualization/)
 * [Worldometers](https://www.worldometers.info/coronavirus/)
 
+
+
 ### Related Modeling Projects
 
+* [COVID-19 Optimal Control Response](https://apmonitor.com/do/index.php/Main/COVID-19Response) SEIR optimization model.
 * [COVID Act Now](https://covidactnow.org/) A web site to support policy decisions by providing state-by-state projections under different control scenarios. Click through to locate the underlying model and modeling assumptions.
 * [COVID-19 Scenarios](https://neherlab.org/covid19/) from the Richard Neher research group at the University of Basel.
 * [Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus 2019-nCoV Epidemic.](https://art-bd.shinyapps.io/nCov_control/) Tuite AR, Fisman DN. Ann Intern Med. 2020; [Epub ahead of print 5 February 2020]. doi: https://doi.org/10.7326/M20-0358
